@@ -4,7 +4,7 @@
 
 A simple bulb project using Next.js and Tailwind CSS.
 
-![blob](./public/blob.gif)
+![bulb](./public/bulb.gif)
 
 ## Reference
 

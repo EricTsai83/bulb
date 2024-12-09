@@ -33,7 +33,7 @@ const Bulb = () => {
         {/* Blob */}
         <div className="relative z-20">
           <Image
-            src="/blob.png"
+            src="/bulb.png"
             alt="Blob"
             width={120}
             height={120}
